@@ -1,9 +1,5 @@
-## ⭐️ Sianx's Blog⭐️
-
 ## <a href="https://sianx.com/" target="_blank" style="color:deeppink;">_🚀 My Blog_</a>
-
 ## <a href="https://sianx.com/about/" target="_blank" style="color:chartreuse;">_About Me 💩_</a>
-
 
 ![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=L-20021213&theme=radical) 
 ![](https://github-stats.hclonely.com/api/top-langs/?username=L-20021213)
