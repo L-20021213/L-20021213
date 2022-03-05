@@ -3,6 +3,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=L-20021213&show_icons=true&title_color=fffffc&icon_color=FFFFFF&text_color=FFFFFF&bg_color=2ec1ac)
 ![](https://github-stats.hclonely.com/api/top-langs/?username=L-20021213&title_color=fffffc&text_color=FFFFFF&bg_color=2ec1ac)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Secriy&hide=css,html&layout=compact&card_width=450)](https://github.com/L-20021213)
 <!--
 **L-20021213/L-20021213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
